@@ -17,5 +17,6 @@ Contents
 .. toctree::
 
    usage
+   algorithm
    sourcecode
    
