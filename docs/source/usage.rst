@@ -1,6 +1,8 @@
 Usage
 =====
-
+.. autosummary::
+   :toctree: generated
+   
 .. _installation:
 
 Build your job
