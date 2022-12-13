@@ -1,9 +1,5 @@
 Usage
 =====
-.. autosummary::
-   :toctree: generated
-   
-.. _installation:
 
 Build your job
 --------------
@@ -17,3 +13,5 @@ Confirm submission list
 Launch protospaceX
 ------------------
 
+.. autosummary::
+   :toctree: generated
