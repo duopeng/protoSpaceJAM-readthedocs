@@ -1,16 +1,19 @@
 Usage
 =====
 
-Build your job
---------------
+Use steps 1 and/or 2 to populate a submission list, then continue to step 3
+---------------------------------------------------------------------------
 
-Upload csv
-----------
+Step 1: Build your job
+----------------------
 
-Confirm submission list
------------------------
+Step 2: Upload csv
+------------------
 
-Launch protospaceX
+Step 3: Confirm submission list
+-------------------------------
+
+Step 4: Launch protospaceX
 ------------------
 
 .. autosummary::
