@@ -3,7 +3,7 @@ Usage
 
 Use the stepper navigation to complete a job request
 
-.. figure:: /images/stepper.png
+.. figure:: /_static/images/stepper.png
    :width: 80%
    :align: center
    :alt: GitHub template for the tutorial
