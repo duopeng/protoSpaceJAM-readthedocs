@@ -21,7 +21,7 @@ Build your Job
 Upload csv
 ~~~~~~~~~~
 .. figure:: /_static/images/UploadCsv.png
-   :width: 80%
+   :width: 20%
    :align: center
    :alt: Upload csv
 
@@ -37,7 +37,7 @@ Launch protospaceX
 ------------------
 
 .. figure:: /_static/images/launch.png
-   :width: 80%
+   :width: 20%
    :align: center
    :alt: launch
    
@@ -49,6 +49,6 @@ View/Download results
 :align: center
 :alt: View/Download results
    
-   
+
 .. autosummary::
    :toctree: generated
