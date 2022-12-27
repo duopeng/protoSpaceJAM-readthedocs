@@ -1,19 +1,20 @@
 Usage
 =====
 
-Use steps 1 and/or 2 to populate a submission list, then continue to step 3
----------------------------------------------------------------------------
+Use the stepper navigation to complete a job request
 
-Step 1: Build your job
-----------------------
+.. figure:: /images/stepper.png
+   :width: 80%
+   :align: center
+   :alt: GitHub template for the tutorial
 
-Step 2: Upload csv
-------------------
+Step 1: Create submission list
+------------------------------
 
-Step 3: Confirm submission list
+Step 2: Confirm submission list
 -------------------------------
 
-Step 4: Launch protospaceX
+Step 3: Launch protospaceX
 ------------------
 
 .. autosummary::
