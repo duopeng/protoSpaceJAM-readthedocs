@@ -13,42 +13,44 @@ Create submission list
 
 Build your Job
 ~~~~~~~~~~~~~~
+Use the "Build your job" section
+
 .. figure:: /_static/images/BuildYourJob.png
-   :width: 80%
-   :align: center
+   :width: 100%
+   :align: left
    :alt: Build your Job
    
 Upload csv
 ~~~~~~~~~~
 .. figure:: /_static/images/UploadCsv.png
-   :width: 20%
-   :align: center
+   :width: 30%
+   :align: left
    :alt: Upload csv
 
 Confirm submission list
 -------------------------------
 
 .. figure:: /_static/images/SubmissionList.png
-   :width: 80%
-   :align: center
+   :width: 100%
+   :align: left
    :alt: Submission List
 
 Launch protospaceX
 ------------------
 
 .. figure:: /_static/images/launch.png
-   :width: 20%
-   :align: center
+   :width: 30%
+   :align: left
    :alt: launch
    
    
 View/Download results
 ---------------------
 .. figure:: /_static/images/Results.png
-:width: 80%
-:align: center
-:alt: View/Download results
-   
+   :width: 100%
+   :align: left
+   :alt: View/Download results
+
 
 .. autosummary::
    :toctree: generated
