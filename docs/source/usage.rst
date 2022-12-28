@@ -28,9 +28,13 @@ Create a submission list
 ------------------------
 There are two ways to create a submission list:
 
-* :guilabel:`Build your Job` All parameters and the range of choices are shown.
+Build your Job
+    All parameters and the range of choices are shown.
 
-* :guilabel:`Upload csv` Efficiently upload a larger submission list.
+Upload csv
+    Efficiently upload a larger submission list.
+
+| Both methods can add to the same submission list repeatedly
 
 Build your Job
 ~~~~~~~~~~~~~~
