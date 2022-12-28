@@ -4,12 +4,14 @@ Usage
 
 Basic usage
 -----------
+
 Use the stepper navigation to complete a job request  
 
 .. figure:: /_static/images/stepper.png
    :width: 90%
    :align: center
    :alt: Stepper navigation
+
 
 Workflow:  
 #. Create a submission list by using steps :guilabel:`Build your Job` and/or :guilabel:`Upload csv`
@@ -18,15 +20,16 @@ Workflow:
 
 #. Launch protospaceX in step :guilabel:`Launch`
 
-#. View and download results
-
+#. View and download results in the last step :guilabel:`Results`
 
 
 Create a submission list
 ------------------------
-There are two ways to create a submission list:  
-* :guilabel:`Build your Job` All parameters and the range of choices are shown.  
-* :guilabel:`Upload csv` Efficiently upload a larger submission list.   
+There are two ways to create a submission list:
+
+* :guilabel:`Build your Job` All parameters and the range of choices are shown.
+
+* :guilabel:`Upload csv` Efficiently upload a larger submission list.
 
 Build your Job
 ~~~~~~~~~~~~~~
@@ -59,8 +62,8 @@ Launch protospaceX
 ------------------
 
 .. figure:: /_static/images/launch.png
-   :width: 30%
-   :align: left
+   :width: 50%
+   :align: center
    :alt: launch
    
    
@@ -73,8 +76,6 @@ View/Download results
    :alt: View/Download results
 
 
-
-   
    
 .. autosummary::
    :toctree: generated
