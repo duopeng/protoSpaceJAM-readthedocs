@@ -29,11 +29,11 @@ Create a submission list
 There are two ways to create a submission list:
 
 Build your Job
-    | Adjust the parameters and then click :guilabel:`Add to the submission list`
+    | Select a genome, enter ENST IDs and terminus, adjust on-screen parameters and then click :guilabel:`Add to the submission list`
     
 Upload csv
     | Click :guilabel:`Download example csv` to obtain a template csv file.
-    | Click :guilabel:`Upload csv` to upload.
+    | EClick :guilabel:`Upload csv` to upload.
     
     | This method is efficient in uploading a larger submission list.
     
@@ -46,8 +46,8 @@ Load example submission list
 ----------------------------
 
 | There are two options to load example submission lists:
-    *. Option 1: in step **Build your Job**, click :guilabel:`Load example`, and then click :guilabel:`Add to the submission list`.
-    *. Option 2: in step **upload csv**, click :guilabel:`Download example csv`, and upload by clicking :guilabel:`Upload csv`.
+    *. Option 1: in the **Build your Job** step, click :guilabel:`Load example`, and then click :guilabel:`Add to the submission list`.
+    *. Option 2: in the **Upload csv** step, click :guilabel:`Download example csv`, and upload by clicking :guilabel:`Upload csv`.
 
 Confirm submission list
 -----------------------
