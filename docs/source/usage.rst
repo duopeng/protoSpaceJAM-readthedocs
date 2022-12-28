@@ -39,12 +39,15 @@ Notes
     | Each method can be used repeatedly
     | In **Build your Job**, you can click :guilabel:`Add to the submission list` with a slightly changed configuration 
    
-Load example submission list
+Load an example submission list
 ----------------------------
 
-| There are two options to load example submission lists:
-    *. Option 1: in the **Build your Job** step, click :guilabel:`Load example`, and then click :guilabel:`Add to the submission list`.
-    *. Option 2: in the **Upload csv** step, click :guilabel:`Download example csv`, and upload it by clicking :guilabel:`Upload csv`.
+| There are two options to load an example submission list:
+
+    * Option 1: in step **Build your Job**, click :guilabel:`Load example`, and then click :guilabel:`Add to the submission list`.
+    
+    * Option 2: in step **upload csv**, click :guilabel:`Download example csv`, and upload by clicking :guilabel:`Upload csv`.
+
 
 Confirm submission list
 -----------------------
