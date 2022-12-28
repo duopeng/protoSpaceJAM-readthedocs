@@ -5,15 +5,12 @@ Usage
 Basic usage
 -----------
 
-Use the stepper navigation to complete a job request  
+Follow the stepper navigation to complete a job request in four easy steps:  
 
 .. figure:: /_static/images/stepper.png
    :width: 90%
    :align: center
    :alt: Stepper navigation
-
-
-Workflow:  
 
 #. Create a submission list by using steps :guilabel:`Build your Job` and/or :guilabel:`Upload csv`
 
@@ -29,11 +26,11 @@ Create a submission list
 There are two ways to create a submission list:
 
 Build your Job
-    | Adjust the parameters and then click :guilabel:`Add to the submission list`
+    | Select a genome, enter ENST IDs and terminus, adjust on-screen parameters and then click :guilabel:`Add to the submission list`
     
 Upload csv
     | Click :guilabel:`Download example csv` to obtain a template csv file.
-    | Click :guilabel:`Upload csv` to upload.
+    | Customize the csv file and then click :guilabel:`Upload csv` to upload.
     
     | This method is efficient in uploading a larger submission list.
     
@@ -50,6 +47,7 @@ Load an example submission list
     * Option 1: in step **Build your Job**, click :guilabel:`Load example`, and then click :guilabel:`Add to the submission list`.
     
     * Option 2: in step **upload csv**, click :guilabel:`Download example csv`, and upload by clicking :guilabel:`Upload csv`.
+
 
 Confirm submission list
 -----------------------
@@ -68,7 +66,6 @@ Launch protospaceX
    :align: center
    :alt: launch
    
-|
 |
 View/Download results
 ---------------------
