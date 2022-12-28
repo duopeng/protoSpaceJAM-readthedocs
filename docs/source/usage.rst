@@ -12,7 +12,7 @@ Use the stepper navigation to complete a job request
    :align: center
    :alt: Stepper navigation
 
-
+|
 Workflow:  
 
 #. Create a submission list by using steps :guilabel:`Build your Job` and/or :guilabel:`Upload csv`
@@ -33,7 +33,7 @@ Build your Job
     
 Upload csv
     | Click :guilabel:`Download example csv` to obtain a template csv file.
-    | EClick :guilabel:`Upload csv` to upload.
+    | Customize the csv file and then click :guilabel:`Upload csv` to upload.
     
     | This method is efficient in uploading a larger submission list.
     
@@ -47,7 +47,7 @@ Load example submission list
 
 | There are two options to load example submission lists:
     *. Option 1: in the **Build your Job** step, click :guilabel:`Load example`, and then click :guilabel:`Add to the submission list`.
-    *. Option 2: in the **Upload csv** step, click :guilabel:`Download example csv`, and upload by clicking :guilabel:`Upload csv`.
+    *. Option 2: in the **Upload csv** step, click :guilabel:`Download example csv`, and upload it by clicking :guilabel:`Upload csv`.
 
 Confirm submission list
 -----------------------
@@ -66,7 +66,6 @@ Launch protospaceX
    :align: center
    :alt: launch
    
-|
 |
 View/Download results
 ---------------------
