@@ -14,6 +14,7 @@ Use the stepper navigation to complete a job request
 
 
 Workflow:  
+
 #. Create a submission list by using steps :guilabel:`Build your Job` and/or :guilabel:`Upload csv`
 
 #. Confirm the submission list in the step :guilabel:`Submission list`
@@ -33,21 +34,14 @@ There are two ways to create a submission list:
 
 Build your Job
 ~~~~~~~~~~~~~~
+Adjust the parameters and then click :guilabel:`Add to the submission list`
 
-Use the "Build your job" section.
-
-.. figure:: /_static/images/BuildYourJob.png
-   :width: 100%
-   :align: left
-   :alt: Build your Job
    
 Upload csv
 ~~~~~~~~~~
-.. figure:: /_static/images/UploadCsv.png
-   :width: 30%
-   :align: left
-   :alt: Upload csv
-   
+Use :guilabel:`Download example csv` to obtain a template csv file.
+
+Use :guilabel:`Upload csv` to upload.
    
 
 Confirm submission list
