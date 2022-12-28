@@ -29,32 +29,36 @@ Create a submission list
 There are two ways to create a submission list:
 
 Build your Job
-    |All parameters and the range of choices are shown.
-    |Adjust the parameters and then click :guilabel:`Add to the submission list`
-
+    | Adjust the parameters and then click :guilabel:`Add to the submission list`
+    
 Upload csv
-    |Efficiently upload a larger submission list.
-    |Click :guilabel:`Download example csv` to obtain a template csv file.
-    |Click :guilabel:`Upload csv` to upload.
+    | Click :guilabel:`Download example csv` to obtain a template csv file.
+    | Click :guilabel:`Upload csv` to upload.
+    
+    | This method is efficient in uploading a larger submission list.
+    
+    
 
-|Both methods can add to the same submission list repeatedly
+| Both methods can add to the same submission list repeatedly
+| Each method can be used repeatedly
+| In *Build your Job* You can click :guilabel:`Add to the submission list` with a slightly changed configuration 
    
 
 Confirm submission list
 -----------------------
-|An example of a submission list is shown below.
-|Click :guilabel:`Confirm` to enable launching protospaceX
+| An example of a submission list is shown below.
+| Click :guilabel:`Confirm` to enable launching protospaceX
 .. figure:: /_static/images/SubmissionList.png
    :width: 100%
    :align: left
    :alt: Submission List
 
-|To quickly load an example submission list, you can:
+| To quickly load an example submission list, you can:
     *. 
 
 Launch protospaceX
 ------------------
-|Click :guilabel:`Launch` to enable launching protospaceX
+| Click :guilabel:`Launch` to enable launching protospaceX
 .. figure:: /_static/images/launch.png
    :width: 50%
    :align: center
