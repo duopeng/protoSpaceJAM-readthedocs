@@ -8,12 +8,16 @@ Use the stepper navigation to complete a job request
    :align: center
    :alt: Stepper navigation
 
-Create submission list
-------------------------------
+Create a submission list
+------------------------
+There are two ways to create a submission list: 
+:guilabel:`Build your Job` All parameters and the range of choices are shown.
+:guilabel:`Upload csv` Efficiently upload a larger submission list. 
 
 Build your Job
 ~~~~~~~~~~~~~~
-Use the "Build your job" section
+
+Use the "Build your job" section.
 
 .. figure:: /_static/images/BuildYourJob.png
    :width: 100%
@@ -26,6 +30,8 @@ Upload csv
    :width: 30%
    :align: left
    :alt: Upload csv
+   
+   
 
 Confirm submission list
 -------------------------------
