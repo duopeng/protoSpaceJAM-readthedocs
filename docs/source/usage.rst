@@ -11,18 +11,18 @@ Use the stepper navigation to complete a job request
    :align: center
    :alt: Stepper navigation
 
-Workflow:
-1. Create a submission list by using steps :guilabel:`Build your Job` and/or :guilabel:`Upload csv`
-2. Confirm the submission list in the step :guilabel:`Submission list` 
-3. Launch protospaceX in step :guilabel:`Launch` 
-4. View and download results
+Workflow:  
+#. Create a submission list by using steps :guilabel:`Build your Job` and/or :guilabel:`Upload csv`  
+#. Confirm the submission list in the step :guilabel:`Submission list`   
+#. Launch protospaceX in step :guilabel:`Launch`   
+#. View and download results  
 
 
 Create a submission list
 ------------------------
 There are two ways to create a submission list:  
-:guilabel:`Build your Job` All parameters and the range of choices are shown.  
-:guilabel:`Upload csv` Efficiently upload a larger submission list.   
+* :guilabel:`Build your Job` All parameters and the range of choices are shown.  
+* :guilabel:`Upload csv` Efficiently upload a larger submission list.   
 
 Build your Job
 ~~~~~~~~~~~~~~
