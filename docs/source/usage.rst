@@ -37,24 +37,26 @@ Upload csv
     
     | This method is efficient in uploading a larger submission list.
     
-    
-
-| Both methods can add to the same submission list repeatedly
-| Each method can be used repeatedly
-| In **Build your Job**, you can click :guilabel:`Add to the submission list` with a slightly changed configuration 
+Notes
+    | Both methods can add to the same submission list repeatedly
+    | Each method can be used repeatedly
+    | In **Build your Job**, you can click :guilabel:`Add to the submission list` with a slightly changed configuration 
    
+Load example submission list
+----------------------------
+
+| There are two options to load example submission lists:
+    *. Option 1: in step **Build your Job**, click :guilabel:`Load example`, and then click :guilabel:`Add to the submission list`.
+    *. Option 2: in step **upload csv**, click :guilabel:`Download example csv`, and upload by clicking :guilabel:`Upload csv`.
 
 Confirm submission list
 -----------------------
-| An example of a submission list is shown below.
-| Click :guilabel:`Confirm` to enable launching protospaceX
+| An example of a submission list is shown below, click :guilabel:`Confirm` to enable launching protospaceX
+
 .. figure:: /_static/images/SubmissionList.png
    :width: 100%
    :align: left
-   :alt: Submission List
-
-| To quickly load an example submission list, you can:
-    *. 
+   :alt: Submission List 
 
 Launch protospaceX
 ------------------
