@@ -5,15 +5,12 @@ Usage
 Basic usage
 -----------
 
-Use the stepper navigation to complete a job request  
+Follow the stepper navigation to complete a job request in four easy steps:  
 
 .. figure:: /_static/images/stepper.png
    :width: 90%
    :align: center
    :alt: Stepper navigation
-
-|
-Workflow:  
 
 #. Create a submission list by using steps :guilabel:`Build your Job` and/or :guilabel:`Upload csv`
 
