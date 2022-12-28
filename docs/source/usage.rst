@@ -41,7 +41,7 @@ Upload csv
 
 | Both methods can add to the same submission list repeatedly
 | Each method can be used repeatedly
-| In *Build your Job* You can click :guilabel:`Add to the submission list` with a slightly changed configuration 
+| In **Build your Job**, you can click :guilabel:`Add to the submission list` with a slightly changed configuration 
    
 
 Confirm submission list
@@ -58,13 +58,14 @@ Confirm submission list
 
 Launch protospaceX
 ------------------
-| Click :guilabel:`Launch` to enable launching protospaceX
+| Click :guilabel:`Launch` to start processing the submission list
 .. figure:: /_static/images/launch.png
-   :width: 50%
+   :width: 40%
    :align: center
    :alt: launch
    
-   
+|
+|
 View/Download results
 ---------------------
 
