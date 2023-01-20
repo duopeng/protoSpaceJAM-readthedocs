@@ -11,7 +11,7 @@ Workflow overview
    :align: left
    :alt: workflow 
 
-Check out the :doc:`usage` section for further information.  
+Check out the :doc:`usage` section for more information.  
 Python :doc:`sourcecode` is available. 
 
 Contents
