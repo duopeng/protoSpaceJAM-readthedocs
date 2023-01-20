@@ -14,9 +14,6 @@ Workflow overview
 Check out the :doc:`usage` section for further information.  
 Python :doc:`sourcecode` is available. 
 
-.. note::
-   This documentation is under construction.
-
 Contents
 --------
 
