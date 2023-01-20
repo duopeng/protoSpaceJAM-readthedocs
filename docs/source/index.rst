@@ -7,8 +7,8 @@ Workflow overview
 -----------------
 
 .. figure:: /_static/images/workflow.png
-   :width: 1200
-   :align: left
+   :width: 100%
+   :align: center
    :alt: workflow 
 
 Check out the :doc:`usage` section for more information.  
