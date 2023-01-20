@@ -2,9 +2,9 @@ Algorithm
 =========
 
 .. figure:: /_static/images/Algorithm.png
-   :width: 90%
+   :width: 100%
    :align: center
-   :alt: Stepper navigation
+   :alt: Algorithm
 
    
 .. autosummary::
