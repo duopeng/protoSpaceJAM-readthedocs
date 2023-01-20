@@ -22,4 +22,5 @@ Contents
    usage
    algorithm
    sourcecode
+   changelog
    
