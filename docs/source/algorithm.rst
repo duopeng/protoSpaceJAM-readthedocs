@@ -2,7 +2,7 @@ Algorithm
 =========
 
 .. figure:: /_static/images/Algorithm.png
-   :width: 100%
+   :width: 1800
    :align: center
    :alt: Algorithm
 
