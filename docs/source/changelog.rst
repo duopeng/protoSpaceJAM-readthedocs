@@ -2,7 +2,7 @@ Changelog
 =========
 :Date: January 25, 2023
 
-* `@duopeng <https://github.com/duopeng>`__: Improvement: Fine tuned the avoidance of recoding near junctions. Now avoiding 3bp/6bp from exon/intron side of the junction, and 3bp/2bp from intron/exon side of the junction (`bf85b <https://github.com/czbiohub/protospaceX/commit/820ed9004c8d33136417ff22733d6812571bf85b>`__)
+* `@duopeng <https://github.com/duopeng>`__: Improvement: Fine tuned the avoidance of recoding near junctions. Now avoiding 3bp/6bp from exon/intron side of the exon/intron junction, and 3bp/2bp from intron/exon side of the intron/exon junction (`bf85b <https://github.com/czbiohub/protospaceX/commit/820ed9004c8d33136417ff22733d6812571bf85b>`__)
 
 
 :Date: January 24, 2023
