@@ -21,7 +21,7 @@ Portal
 ------
 
 :Date: January 27, 2023
-* `@duopeng <https://github.com/duopeng>`__: Add a maximum limit of 384 entries per submission list(`f0ad7 <https://github.com/czbiohub/protospaceX-portal/commit/687f8faab0839d65da990c9bcbc6487100ff0ad7>`__)
+* `@duopeng <https://github.com/duopeng>`__: Add a maximum limit of 384 entries per submission list (`f0ad7 <https://github.com/czbiohub/protospaceX-portal/commit/687f8faab0839d65da990c9bcbc6487100ff0ad7>`__)
 
 :Date: January 26, 2023
 
