@@ -3,6 +3,7 @@ Welcome to protospaceX's documentation!
 
 **protospaceX** is a CRISPR knock-in design tool that designs gRNAs and HDR donors that maximizes success rate using an array of known rules.
 |
+
 Workflow overview
 -----------------
 
@@ -14,6 +15,7 @@ Workflow overview
 Check out the :doc:`usage` section for more information.  
 Python :doc:`sourcecode` is available. 
 |
+
 Contents
 --------
 
