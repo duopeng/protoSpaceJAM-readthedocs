@@ -17,6 +17,7 @@ gRNA scoring
    :alt: gRNA_scoring
 |
 |
+|
 Recoding strategy
 -----------------
 .. figure:: /_static/images/recode.png
