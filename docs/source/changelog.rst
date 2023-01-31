@@ -9,7 +9,7 @@ Algorithm
 
 :Date: January 24, 2023
 * `@duopeng <https://github.com/duopeng>`__: Bug fix: Avoid re-mutating by keeping track of mutated bases (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
-* `@duopeng <https://github.com/duopeng>`__: Bug fix: Uppercase the 2bp codon-padding sequence to avoid interferring with mutation (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
+* `@duopeng <https://github.com/duopeng>`__: Bug fix: Fixed an interference with mutation caused by marking codon-padding sequence with lower-case (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
 * `@duopeng <https://github.com/duopeng>`__: Enhancement: Scan and undo isolated mutation of "N" in "NGG" (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
 
 :Date: January 20, 2023
