@@ -23,7 +23,16 @@ Recoding strategy
 .. figure:: /_static/images/recode.png
    :width: 100%
    :align: center
-   :alt: Recode_stragety
+   :alt: Recode_strategy
+|
+|
+|
+DNA donor
+---------
+.. figure:: /_static/images/donor.png
+   :width: 100%
+   :align: center
+   :alt: Donor_strategy
 
    
 .. autosummary::
