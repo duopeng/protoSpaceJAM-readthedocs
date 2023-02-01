@@ -8,7 +8,7 @@ Algorithm
 * `@duopeng <https://github.com/duopeng>`__: Improvement: Fine-tuned the off-limit range for recoding near junctions. Now avoiding 3bp/6bp from exon/intron side of the exon/intron junction, and 3bp/2bp from intron/exon side of the intron/exon junction (`bf85b <https://github.com/czbiohub/protospaceX/commit/820ed9004c8d33136417ff22733d6812571bf85b>`__)
 
 :Date: January 24, 2023
-* `@duopeng <https://github.com/duopeng>`__: <a href="https://img.shields.io/badge/-bug%20fix-red"></a>: Avoid re-mutating by keeping track of mutated bases (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
+* `@duopeng <https://github.com/duopeng>`__: |bug-fix|: Avoid re-mutating by keeping track of mutated bases (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
 * `@duopeng <https://github.com/duopeng>`__: Bug fix: Fixed an interference with mutation caused by marking codon-padding sequence with lower-case (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
 * `@duopeng <https://github.com/duopeng>`__: Enhancement: Scan and undo isolated mutation of "N" in "NGG" (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
 
@@ -28,6 +28,18 @@ Portal
 * `@duopeng <https://github.com/duopeng>`__: Default changed to "non-target strand" (including the example) (`0c23a <https://github.com/czbiohub/protospaceX-portal/commit/823eaff78a281fdfd2627dff329974ccee20c23a>`__)
 * `@duopeng <https://github.com/duopeng>`__: Default changed to "Prioritize recoding in PAM" (including the example) (`54621 <https://github.com/czbiohub/protospaceX-portal/commit/e80b823bbe1f2a95a9afa6655305402203554621>`__)
 
+
+.. |bug-fix| image:: /_static/images/bug-fix-red.svg?style=svg
+    :alt: bug fix
+    :target: 
+
+.. |enhancement| image:: /_static/images/enhancement-green.svg?style=svg
+    :alt: enhancement
+    :target: 
+
+.. |build status| image:: https://circleci.com/gh/readthedocs/readthedocs.org.svg?style=svg
+    :alt: build status
+    :target: https://circleci.com/gh/readthedocs/readthedocs.org
 
 .. autosummary::
    :toctree: generated
