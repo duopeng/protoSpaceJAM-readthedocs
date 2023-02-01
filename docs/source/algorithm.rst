@@ -27,8 +27,8 @@ Recoding strategy
 |
 |
 |
-DNA donor
----------
+DNA donor processing strategy
+-----------------------------
 .. figure:: /_static/images/donor.png
    :width: 100%
    :align: center
