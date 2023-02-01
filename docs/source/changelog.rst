@@ -8,9 +8,9 @@ Algorithm
 * `@duopeng <https://github.com/duopeng>`__: Improvement: Fine-tuned the off-limit range for recoding near junctions. Now avoiding 3bp/6bp from exon/intron side of the exon/intron junction, and 3bp/2bp from intron/exon side of the intron/exon junction (`bf85b <https://github.com/czbiohub/protospaceX/commit/820ed9004c8d33136417ff22733d6812571bf85b>`__)
 
 :Date: January 24, 2023
-* `@duopeng <https://github.com/duopeng>`__: : Avoid re-mutating by keeping track of mutated bases (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
-* `@duopeng <https://github.com/duopeng>`__: Bug fix: Fixed an interference with mutation caused by marking codon-padding sequence with lower-case (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
-* `@duopeng <https://github.com/duopeng>`__: Enhancement: Scan and undo isolated mutation of "N" in "NGG" (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
+* `@duopeng <https://github.com/duopeng>`__:|bug fix f87f4|: Avoid re-mutating by keeping track of mutated bases (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
+* `@duopeng <https://github.com/duopeng>`__:|bug fix f87f4|: Fixed an interference with mutation caused by marking codon-padding sequence with lower-case (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
+* `@duopeng <https://github.com/duopeng>`__:|enhancement f87f4|: Scan and undo isolated mutation of "N" in "NGG" (`f87f4 <https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4>`__)
 
 :Date: January 20, 2023
 * `@duopeng <https://github.com/duopeng>`__: Bug fix: Codon mutation won't happen in some gRNAs in recut mode (`94ea9 <https://github.com/czbiohub/protospaceX/commit/3662c9a9b02e958fd3d6f8a94625470b07b94ea9>`__)
@@ -31,20 +31,11 @@ Portal
 
 
 
-|Generic badge|
-|Generic badge|
-|bug fix| 
-|made-with-Go|
 
-.. |made-with-Go| image:: https://img.shields.io/badge/Made%20with-Go-1f425f.svg
-   :target: http://golang.org
-   
-.. |Generic badge| image:: https://img.shields.io/badge/%3CSUBJECT%3E-%3CSTATUS%3E-%3CCOLOR%3E.svg
-    :target: https://shields.io/
-
-.. |bug fix| image:: /_static/images/bug-fix-red.svg
-    :target: https://shields.io/
-
+.. |bug fix f87f4| image:: https://img.shields.io/badge/f87f4-bug%20fix-red
+    :target: https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4
+.. |enhancement f87f4| image:: https://img.shields.io/badge/f87f4-enhancement-green
+    :target: https://github.com/czbiohub/protospaceX/commit/98ab6e0dc698effa2441542771d7d82abbdf87f4
 
 .. autosummary::
    :toctree: generated
