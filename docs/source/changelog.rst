@@ -2,7 +2,6 @@ Changelog
 =========
 
 |
-|
 
 Algorithm
 ---------
@@ -23,7 +22,6 @@ Algorithm
 * `@duopeng <https://github.com/duopeng>`__:|bug fix 94ea9| Codon mutation won't happen in some gRNAs in recut mode.
 * `@duopeng <https://github.com/duopeng>`__:|enhancement c2e92| Changed strand names to match the naming convention.
 
-|
 |
 
 Portal
