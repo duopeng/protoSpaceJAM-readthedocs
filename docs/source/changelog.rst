@@ -1,40 +1,44 @@
 Changelog
 =========
 
+|
+|
+
 Algorithm
 ---------
 
 :Date: Feburary 1, 2023
-* `@duopeng <https://github.com/duopeng>`__:|bug fix e20ed| Fixed two bugs in the dsDNA trimming logic: 1) the right arm was not trimming correctly, 2) report synthesis problems remaining after the trimming step
-
+* `@duopeng <https://github.com/duopeng>`__:|bug fix e20ed| Fixed two bugs in the dsDNA trimming logic: 1) the right arm was not trimming correctly, 2) report synthesis problems remaining after the trimming step.
 
 :Date: January 25, 2023
 
-* `@duopeng <https://github.com/duopeng>`__:|enhancement bf85b| Fine-tuned the off-limit range for recoding near junctions. Now avoiding 3bp/6bp from exon/intron side of the exon/intron junction, and 3bp/2bp from intron/exon side of the intron/exon junction
+* `@duopeng <https://github.com/duopeng>`__:|enhancement bf85b| Fine-tuned the off-limit range for recoding near junctions. Now avoiding 3bp/6bp from exon/intron side of the exon/intron junction, and 3bp/2bp from intron/exon side of the intron/exon junction.
 
 :Date: January 24, 2023
-* `@duopeng <https://github.com/duopeng>`__:|bug fix f87f4| Avoid re-mutating by keeping track of mutated bases 
-* `@duopeng <https://github.com/duopeng>`__:|bug fix f87f4| Fixed an interference with mutation caused by marking codon-padding sequence with lower-case
-* `@duopeng <https://github.com/duopeng>`__:|enhancement f87f4| Scan and undo isolated mutation of "N" in "NGG"
+* `@duopeng <https://github.com/duopeng>`__:|bug fix f87f4| Avoid re-mutating by keeping track of mutated bases.
+* `@duopeng <https://github.com/duopeng>`__:|bug fix f87f4| Fixed an interference with mutation caused by marking codon-padding sequence with lower-case.
+* `@duopeng <https://github.com/duopeng>`__:|enhancement f87f4| Scan and undo isolated mutation of "N" in "NGG".
 
 :Date: January 20, 2023
-* `@duopeng <https://github.com/duopeng>`__:|bug fix 94ea9| Codon mutation won't happen in some gRNAs in recut mode
-* `@duopeng <https://github.com/duopeng>`__:|enhancement c2e92| Changed strand names to match the naming convention
+* `@duopeng <https://github.com/duopeng>`__:|bug fix 94ea9| Codon mutation won't happen in some gRNAs in recut mode.
+* `@duopeng <https://github.com/duopeng>`__:|enhancement c2e92| Changed strand names to match the naming convention.
 
+|
+|
 
 Portal
 ------
 :Date: Feburary 1, 2023
-* `@duopeng <https://github.com/duopeng>`__:|enhancement b6b91| Change the default minumn homology arm length (dsDNA) to 200
-* `@duopeng <https://github.com/duopeng>`__:|bug fix b6b91| Made "clear example" and "reset button" buttons work correctly, both will reset to the following defaults: Genome: Human, Genes: None, number of gRNA:1, DNA donor type: ssDNA, HA arm length to consider: 500, target strand: non-target strand, recode intensity:full, prioritize recoding in: PAM, minimum homology arm length: 200, enforce maximum donor length: 200, recut cfd threshold: 0.03
+* `@duopeng <https://github.com/duopeng>`__:|enhancement b6b91| Change the default minumn homology arm length (dsDNA) to 200.
+* `@duopeng <https://github.com/duopeng>`__:|bug fix b6b91| Made "clear example" and "reset button" buttons work correctly, both will reset to the following defaults: Genome: Human, Genes: None, number of gRNA:1, DNA donor type: ssDNA, HA arm length to consider: 500, target strand: non-target strand, recode intensity:full, prioritize recoding in: PAM, minimum homology arm length: 200, enforce maximum donor length: 200, recut cfd threshold: 0.03.
 
 :Date: January 27, 2023
-* `@duopeng <https://github.com/duopeng>`__:|enhancement f0ad7| Add a maximum limit of 384 entries per submission list
+* `@duopeng <https://github.com/duopeng>`__:|enhancement f0ad7| Add a maximum limit of 384 entries per submission list.
 
 :Date: January 26, 2023
 
-* `@duopeng <https://github.com/duopeng>`__:|enhancement 0c23a| Default changed to "non-target strand" (including the example)
-* `@duopeng <https://github.com/duopeng>`__:|enhancement 54621| Default changed to "Prioritize recoding in PAM" (including the example)
+* `@duopeng <https://github.com/duopeng>`__:|enhancement 0c23a| Default changed to "non-target strand" (including the example).
+* `@duopeng <https://github.com/duopeng>`__:|enhancement 54621| Default changed to "Prioritize recoding in PAM" (including the example).
 
 
 .. |bug fix 94ea9| image:: https://img.shields.io/badge/94ea9-bug%20fix-red
