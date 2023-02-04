@@ -5,6 +5,8 @@ Changelog
 
 Algorithm
 ---------
+:Date: Feburary 4, 2023
+* |enhancement 7da6a| Changed the order of recoding in gRNA to: codons -> 3'UTR -> intron -> 5'UTR
 
 :Date: Feburary 1, 2023
 * |bug fix e20ed| Fixed two bugs in the dsDNA trimming logic: 1) the right arm was not trimming correctly, 2) report synthesis problems remaining after the trimming step.
@@ -61,6 +63,8 @@ Portal
     :target: https://github.com/czbiohub/protospaceX-portal/commit/1fd046d24253d0fdc8d13d5f1ef9c5f6644b6b91
 .. |bug fix e20ed| image:: https://img.shields.io/badge/e20ed-bug%20fix-red
     :target: https://github.com/czbiohub/protospaceX/commit/67a4e0df5a33b023e2de834039b4fddd416e20ed
-
+.. |enhancement e20ed| image:: https://img.shields.io/badge/e20ed-enhancement-green
+    :target: https://github.com/czbiohub/protospaceX/commit/1b37873b25f1c0f912f2a3c78445933f1887da6a
+    
 .. autosummary::
    :toctree: generated
