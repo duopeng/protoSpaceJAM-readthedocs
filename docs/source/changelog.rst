@@ -5,6 +5,9 @@ Changelog
 
 Algorithm
 ---------
+:Date: Feburary 6, 2023
+* |enhancement 78fd0| Changed the order of recoding in gRNAs to: codons -> intron -> 3'UTR -> 5'UTR
+
 :Date: Feburary 4, 2023
 * |enhancement 7da6a| Changed the order of recoding in gRNAs to: codons -> 3'UTR -> intron -> 5'UTR
 
@@ -65,6 +68,10 @@ Portal
     :target: https://github.com/czbiohub/protospaceX/commit/67a4e0df5a33b023e2de834039b4fddd416e20ed
 .. |enhancement 7da6a| image:: https://img.shields.io/badge/7da6a-enhancement-green
     :target: https://github.com/czbiohub/protospaceX/commit/1b37873b25f1c0f912f2a3c78445933f1887da6a
-    
+.. |enhancement 78fd0| image:: https://img.shields.io/badge/78fd0-enhancement-green
+    :target: https://github.com/czbiohub/protospaceX/commit/b70c9762a756355697a7643e0c07af70f4f78fd0
+
+
+
 .. autosummary::
    :toctree: generated
