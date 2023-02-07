@@ -5,8 +5,8 @@ Changelog
 
 Algorithm
 ---------
-:Date: Feburary 6, 2023
-* |bug fix 6e2e5| Fixed a bug that causes re-mutating codons when scanning payload-homology chimeric regions for emerging cutsites
+:Date: Feburary 7, 2023
+* |bug fix 6e2e5| Fixed a bug that causes re-mutating codons when scanning and fixing emerging cutsites in payload-homology chimeric regions. 
 
 :Date: Feburary 6, 2023
 * |enhancement 78fd0| Changed the order of recoding in gRNAs to: 3'UTR -> codons -> intron -> 5'UTR
