@@ -5,8 +5,10 @@ Changelog
 
 Algorithm
 ---------
+
 :Date: Feburary 7, 2023
 * |bug fix 6e2e5| Fixed a bug that causes re-mutating codons when scanning and fixing emerging cutsites in payload-homology chimeric regions. 
+* |bug fix 82c61| Fix a bug where the last recoded base-pair was not reflected in the final donor
 
 :Date: Feburary 6, 2023
 * |enhancement 78fd0| Changed the order of recoding in gRNAs to: 3'UTR -> codons -> intron -> 5'UTR
@@ -75,7 +77,8 @@ Portal
     :target: https://github.com/czbiohub/protospaceX/commit/b70c9762a756355697a7643e0c07af70f4f78fd0
 .. |bug fix 6e2e5| image:: https://img.shields.io/badge/6e2e5-bug%20fix-red
     :target: https://github.com/czbiohub/protospaceX/commit/d3b5610d73fd75fa89a9948eb80733bf5286e2e5
-
+.. |bug fix 82c61| image:: https://img.shields.io/badge/82c61-bug%20fix-red
+    :target: https://github.com/czbiohub/protospaceX/commit/f94f320dbb9fba33fc6927d39bc2db950ce82c61
 
 .. autosummary::
    :toctree: generated
