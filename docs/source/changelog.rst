@@ -7,8 +7,8 @@ Algorithm
 ---------
 
 :Date: Feburary 7, 2023
-* |bug fix 6e2e5| Fixed a bug that causes re-mutating codons when scanning and fixing emerging cutsites in payload-homology chimeric regions. 
-* |bug fix 82c61| Fixed a bug where the last recoded base-pair was not reflected in the final donor
+* |bug fix 6e2e5| Fixed a bug that causes mutating codons for a second time when scanning and fixing emerging cutsites in payload-homology chimeric regions. 
+* |bug fix 82c61| Fixed a bug where the last one in the array of recoded base-pairs was not reflected in the final donor
 
 :Date: Feburary 6, 2023
 * |enhancement 78fd0| Changed the order of recoding in gRNAs to: 3'UTR -> codons -> intron -> 5'UTR
