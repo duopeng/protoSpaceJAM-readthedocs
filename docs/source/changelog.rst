@@ -11,7 +11,7 @@ Algorithm
 * |bug fix 82c61| Fixed a bug where the last one in the array of recoded base-pairs was not reflected in the final donor
 
 :Date: Feburary 6, 2023
-* |enhancement 78fd0| Changed the order of recoding in gRNAs to: 3'UTR -> codons -> intron -> 5'UTR
+* |enhancement 78fd0| Changed the order of recoding in gRNAs and emerging cutsites (in window scan) to: 3'UTR -> codons -> intron -> 5'UTR
 
 :Date: Feburary 4, 2023
 * |enhancement 7da6a| Changed the order of recoding in gRNAs to: codons -> 3'UTR -> intron -> 5'UTR
