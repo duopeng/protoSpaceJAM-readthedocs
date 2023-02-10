@@ -11,7 +11,7 @@ Overview
 |
 gRNA scoring
 ------------
-gRNAs are ranked by a score computed from three weights that aims to (1) maximize specifcity, (2) minimize cut-to-insert distance and (3) avoid cutting near splice junctions and 5’ UTRs
+The gRNAs score is computed from three weights that aims to (1) maximize specifcity, (2) minimize cut-to-insert distance and (3) avoid cutting near splice junctions and 5’ UTRs.
 
 .. figure:: /_static/images/gRNA.png
    :width: 100%
@@ -22,7 +22,9 @@ gRNAs are ranked by a score computed from three weights that aims to (1) maximiz
 |
 Recoding strategy
 -----------------
-Silent mutations can be added 
+Silent mutations are included in the DNA donor to (1) prevent the edited genome from being recut and (2) facilitate payload insertion when the cut-to-insert distance is inevitably large.  
+|There are three recoding intesities: full, prevent recut, and none. 
+
 
 .. figure:: /_static/images/recode.png
    :width: 100%
