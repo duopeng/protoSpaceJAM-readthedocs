@@ -27,8 +27,8 @@ Recoding strategy
 | - Facilitate payload insertion when the cut-to-insert distance is inevitably large.  
 |
 | There are three recoding intesities: "full", "prevent recut", and "none". 
-| In "full", the cut-to-insert region is recoded to facilitate payload insertion. The gRNA and split gRNA (disrupted by the payload, creating a protopsacer-half and a PAM-PAM) are also recoded.
-| The "prevent recut" intensity differs from "full" by the lack of recoding in the cut-to-insert region
+| In "full", the cut-to-insert region is recoded to facilitate payload insertion. The gRNA or split gRNA (disrupted by the payload, creating a protopsacer-half and a PAM-half) are also recoded.
+| "Prevent recut" differs from "full" by the lack of recoding in the cut-to-insert region.
 
 .. figure:: /_static/images/recode.png
    :width: 100%
