@@ -38,7 +38,17 @@ Recoding strategy
    :width: 100%
    :align: center
    :alt: Recode_strategy
-| Notes
+   
+|
+| Region definitions:
+|
+
+.. figure:: /_static/images/region.png
+   :width: 100%
+   :align: center
+   :alt: Recode_strategy
+   
+| Note
 | - Cutting Frequency Determination (CFD) score was created by `Doench et al. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4744125/>`_  to calculate the off-target potential of sgRNA:DNA interaction.
 |
 DNA donor processing strategy
