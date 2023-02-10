@@ -24,7 +24,9 @@ Recoding strategy
 -----------------
 Silent mutations are included in the DNA donor to (1) prevent the edited genome from being recut and (2) facilitate payload insertion when the cut-to-insert distance is inevitably large.  
 |There are three recoding intesities: full, prevent recut, and none. 
-
+|
+In full recoding, the cut-to-insert region is recoded to facilitate payload insertion. The gRNA and split gRNA (payload homology arm chimeric region) are recoded 
+|The prevent recut intensity differs from full by the lack of recoding in the cut-to-insert region
 
 .. figure:: /_static/images/recode.png
    :width: 100%
