@@ -12,6 +12,7 @@ Overview
 gRNA scoring
 ------------
 gRNAs are ranked by a score computed from three weights that aims to (1) maximize specifcity, (2) minimize cut-to-insert distance and (3) avoid cutting near splice junctions and 5’ UTRs
+
 .. figure:: /_static/images/gRNA.png
    :width: 100%
    :align: center
@@ -21,6 +22,8 @@ gRNAs are ranked by a score computed from three weights that aims to (1) maximiz
 |
 Recoding strategy
 -----------------
+Silent mutations can be added 
+
 .. figure:: /_static/images/recode.png
    :width: 100%
    :align: center
