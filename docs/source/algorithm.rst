@@ -17,7 +17,7 @@ The gRNAs score is computed from three weights that aims to (1) maximize specifc
    :width: 100%
    :align: center
    :alt: gRNA_scoring
-|
+| Cutting Frequency Determination (CFD) score wascreated by `Doench et al. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4744125/>`_  to calculate the off-target potential of sgRNA:DNA interaction.
 |
 |
 Recoding strategy
