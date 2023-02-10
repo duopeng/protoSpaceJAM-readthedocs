@@ -17,8 +17,12 @@ The gRNAs score is computed from three weights that aims to (1) maximize specifc
    :width: 100%
    :align: center
    :alt: gRNA_scoring
-| Cutting Frequency Determination (CFD) score wascreated by `Doench et al. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4744125/>`_  to calculate the off-target potential of sgRNA:DNA interaction.
-|
+| Notes:
+| The gRNA specificity score is calculated in three steps:
+| (1) Identify all possible off-target hits of a gRNA in the genome with BWA.
+| (2) Calculate the off-target MIT guide specificity score for each off-target hit.
+| (3) Take the sum of all MIT scores and use formula 100/(100+sum(mitScores)) to calculate the gRNA specificity score.
+| 
 |
 Recoding strategy
 -----------------
@@ -34,8 +38,8 @@ Recoding strategy
    :width: 100%
    :align: center
    :alt: Recode_strategy
-|
-|
+| Notes
+| - Cutting Frequency Determination (CFD) score was created by `Doench et al. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4744125/>`_  to calculate the off-target potential of sgRNA:DNA interaction.
 |
 DNA donor processing strategy
 -----------------------------
