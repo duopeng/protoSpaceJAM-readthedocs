@@ -36,6 +36,9 @@ Algorithm
 
 Portal
 ------
+
+:Date: Feburary 9, 2023
+* |enhancement dced1| Consolidated donor length parameters into one box, and donor recoding parameters into one box.
 :Date: Feburary 1, 2023
 * |enhancement b6b91| Change the default minumn homology arm length (dsDNA) to 200.
 * |bug fix b6b91| Made "clear example" and "reset button" buttons work correctly, both will reset to the following defaults: Genome: Human, Genes: None, number of gRNA:1, DNA donor type: ssDNA, HA arm length to consider: 500, target strand: non-target strand, recode intensity:full, prioritize recoding in: PAM, minimum homology arm length: 200, enforce maximum donor length: 200, recut cfd threshold: 0.03.
@@ -79,6 +82,9 @@ Portal
     :target: https://github.com/czbiohub/protospaceX/commit/d3b5610d73fd75fa89a9948eb80733bf5286e2e5
 .. |bug fix 82c61| image:: https://img.shields.io/badge/82c61-bug%20fix-red
     :target: https://github.com/czbiohub/protospaceX/commit/f94f320dbb9fba33fc6927d39bc2db950ce82c61
+.. |enhancement dced1| image:: https://img.shields.io/badge/dced1-enhancement-green
+    :target: https://github.com/czbiohub/protospaceX-portal/commit/3818cc5f92e26f170251d950cbadad11c04dced1
+
 
 .. autosummary::
    :toctree: generated
