@@ -23,7 +23,7 @@ The gRNAs score is computed from three weights that aims to (1) maximize specifc
 Recoding strategy
 -----------------
 | Silent mutations are included in the DNA donor to:
-| - Prevent the edited genome from being recut. 
+| - Prevent recutting the genome after editing. 
 | - Facilitate payload insertion when the cut-to-insert distance is inevitably large.  
 |
 | There are three recoding intesities: "full", "prevent recut", and "none". 
