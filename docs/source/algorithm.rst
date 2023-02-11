@@ -49,6 +49,8 @@ Recoding strategy
    :width: 100%
    :align: center
    :alt: region_definition
+|
+|
 DNA donor processing strategy
 -----------------------------
 | After recoding, the DNA donors are further processed, in a type-specific way.
