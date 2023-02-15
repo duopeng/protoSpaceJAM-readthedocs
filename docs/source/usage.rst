@@ -16,7 +16,7 @@ Follow the stepper navigation to complete a job request in four easy steps:
 
 #. Confirm the submission list in the step :guilabel:`Submission list`
 
-#. Launch protoSpaceJAM in step :guilabel:`Launch`
+#. Start protoSpaceJAM in step :guilabel:`Launch`
 
 #. View and download results in the last step :guilabel:`Results`
 
@@ -60,7 +60,7 @@ Confirm submission list
 
 Launch protoSpaceJAM
 ------------------
-| Click :guilabel:`Launch` to start processing the submission list
+| Click :guilabel:`Jam it` to start processing the submission list
 .. figure:: /_static/images/launch.png
    :width: 40%
    :align: center
