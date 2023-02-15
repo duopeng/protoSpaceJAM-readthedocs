@@ -40,10 +40,7 @@ Portal
 * |enhancement 49990| Added a link in the landing page to a Google form to get an invitation code.
 
 :Date: Feburary 14, 2023
-* |enhancement 49990| Complete the name change to "protoSpaceJAM".
-
-:Date: Feburary 14, 2023
-* |enhancement 49990| Small changes, e.g. 'Launch' -> 'Jam it'. Fixed typos.
+* |enhancement 49990| Complete the name change to "protoSpaceJAM". And several small changes, e.g. 'Launch' -> 'Jam it'. Fixed typos.
 
 :Date: Feburary 9, 2023
 * |enhancement dced1| Consolidated donor length parameters into one box, and donor recoding parameters into one box.
