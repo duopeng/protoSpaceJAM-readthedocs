@@ -37,13 +37,13 @@ Algorithm
 Portal
 ------
 :Date: Feburary 14, 2023
-* |enhancement 49990|Added a link in the landing page to a Google form to get an invitation code.
+* |enhancement 49990| Added a link in the landing page to a Google form to get an invitation code.
 
 :Date: Feburary 14, 2023
-* |enhancement 49990|Complete the name change to "protoSpaceJAM".
+* |enhancement 49990| Complete the name change to "protoSpaceJAM".
 
 :Date: Feburary 14, 2023
-* |enhancement 49990|Small changes, e.g. 'Launch' -> 'Jam it'. Fixed typos.
+* |enhancement 49990| Small changes, e.g. 'Launch' -> 'Jam it'. Fixed typos.
 
 :Date: Feburary 9, 2023
 * |enhancement dced1| Consolidated donor length parameters into one box, and donor recoding parameters into one box.
@@ -93,7 +93,7 @@ Portal
     :target: https://github.com/czbiohub/protospaceX/commit/f94f320dbb9fba33fc6927d39bc2db950ce82c61
 .. |enhancement dced1| image:: https://img.shields.io/badge/dced1-enhancement-green
     :target: https://github.com/czbiohub/protospaceX-portal/commit/3818cc5f92e26f170251d950cbadad11c04dced1
-.. |enhancement 49990| image:: https://img.shields.io/badge/dced1-enhancement-green
+.. |enhancement 49990| image:: https://img.shields.io/badge/49990-enhancement-green
     :target: https://github.com/czbiohub/protospaceX-portal/commit/b006e6c3280f0ff09a279e35ec93fb7eb3849990
 
 .. autosummary::
