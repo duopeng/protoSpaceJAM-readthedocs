@@ -16,7 +16,7 @@ Follow the stepper navigation to complete a job request in four easy steps:
 
 #. Confirm the submission list in the step :guilabel:`Submission list`
 
-#. Launch protospaceX in step :guilabel:`Launch`
+#. Launch protoSpaceJAM in step :guilabel:`Launch`
 
 #. View and download results in the last step :guilabel:`Results`
 
@@ -51,14 +51,14 @@ Load an example submission list
 
 Confirm submission list
 -----------------------
-| An example of a submission list is shown below, click :guilabel:`Confirm` to enable launching protospaceX
+| An example of a submission list is shown below, click :guilabel:`Confirm` to enable launching protoSpaceJAM
 
 .. figure:: /_static/images/SubmissionList.png
    :width: 100%
    :align: left
    :alt: Submission List 
 
-Launch protospaceX
+Launch protoSpaceJAM
 ------------------
 | Click :guilabel:`Launch` to start processing the submission list
 .. figure:: /_static/images/launch.png

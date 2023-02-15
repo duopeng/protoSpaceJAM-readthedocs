@@ -1,1 +1,1 @@
-Source code for protospaceX readthedocs
+Source code for protoSpaceJAM readthedocs
