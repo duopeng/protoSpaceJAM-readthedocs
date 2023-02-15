@@ -16,7 +16,7 @@ Follow the stepper navigation to complete a job request in four easy steps:
 
 #. Confirm the submission list in the step :guilabel:`Submission list`
 
-#. Start protoSpaceJAM in step :guilabel:`Launch`
+#. Start protoSpaceJAM in step :guilabel:`Jam it`
 
 #. View and download results in the last step :guilabel:`Results`
 
