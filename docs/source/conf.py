@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'protospaceX'
+project = 'protoSpaceJAM'
 copyright = ''
 author = 'Duo Peng'
 
