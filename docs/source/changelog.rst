@@ -36,6 +36,9 @@ Algorithm
 
 Portal
 ------
+:Date: Feburary 16, 2023
+* |bug fix 004c6| Entry number are now correct when there are 2+ gRNAs for each design. `Associated change: <https://github.com/czbiohub/protoSpaceJAM-portal/commit/68d37db4642fea22d3738ef5c37da3b9331004c6>`_ ProtospaceJAM will read "Entry" from input, and if fails, uses an auto increment
+
 :Date: Feburary 14, 2023
 * |enhancement 49990| Added a link in the landing page to a Google form to get an invitation code.
 
@@ -92,6 +95,8 @@ Portal
     :target: https://github.com/czbiohub/protospaceX-portal/commit/3818cc5f92e26f170251d950cbadad11c04dced1
 .. |enhancement 49990| image:: https://img.shields.io/badge/49990-enhancement-green
     :target: https://github.com/czbiohub/protospaceX-portal/commit/b006e6c3280f0ff09a279e35ec93fb7eb3849990
+.. |bug fix 004c6| image:: https://img.shields.io/badge/004c6-bug%20fix-red
+    :target: https://github.com/czbiohub/protoSpaceJAM-portal/tree/68d37db4642fea22d3738ef5c37da3b9331004c6
 
 .. autosummary::
    :toctree: generated
