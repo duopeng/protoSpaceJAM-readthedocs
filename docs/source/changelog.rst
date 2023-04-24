@@ -6,7 +6,7 @@ Changelog
 Algorithm
 ---------
 
-:Date: April 24, 2023
+:Date: April 11, 2023
 * |enhancement 6b9db| Users can now specify any genomic coordinates in a transript as the edit site. 
 
 :Date: Feburary 7, 2023
@@ -40,7 +40,7 @@ Algorithm
 Portal
 ------
 
-:Date: April 24, 2023
+:Date: April 15, 2023
 * |enhancement 6b9db| Changed the interface to accomodate the input of custom genomic coordinates as edit sites. 
 
 :Date: Feburary 16, 2023
